@@ -17,7 +17,7 @@ The GWAS results can be found in the `GWAS_results` folder. An overview of the p
 
 ## Plots
 The Jupyter notebook `Plot_Scripts.ipynb` contains the code to generate all plots that were shown in the publication and 
-to reproduce all analysis regarding feature importance and
+to reproduce all analysis regarding feature importance.
 
 ## Citation
 When using parts of this repository, please cite our publication:
