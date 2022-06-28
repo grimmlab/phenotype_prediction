@@ -16,7 +16,7 @@ We performed GWAS for four phenotypes of *Arabidopsis thaliana* using [permGWAS]
 The GWAS results can be found in the `GWAS_results` folder. An overview of the prediction results on *Arabidopsis thaliana* can be found in `Results`.
 
 ## Results hyperparameter optimization
-We further included a detailed overview of the hyperparameter optimzation for each prediction model and phenotype, both for simulated and real-world data, in a .zip-archive in `Results`.
+We further included a detailed overview of the hyperparameter optimzation for each prediction model and phenotype, both for simulated and real-world data, in a .zip-archive in `Results`. There is a .xlsx-file for each phenotype which has different sheets. One sheet gives an overview on the results. Further, there is one sheet for each prediction model with the results per outerfold. Beyond that, there is a sheet with the runtime overview and tried hyperparameter combination for each outerfold and prediction model.
 
 ## Plots
 The Jupyter notebook `Plot_Scripts.ipynb` contains the code to generate all plots that were shown in the publication and 
