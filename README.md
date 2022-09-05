@@ -27,6 +27,6 @@ When using parts of this repository, please cite our publication:
 
 **A comparison of classical and machine learning-based phenotype prediction methods on simulated data and three plant species**  
 Maura John, Florian Haselbeck, Rupashree Dass, Christoph Malisi, Patrizia Ricca, Christian Dreischer, Sebastian J. Schultheiss and Dominik G. Grimm  
-*under review*
+*Frontiers of Plant Science, 2022*
 
 Keywords: Phenotype Prediction, Genomic Selection, Plant Phenotyping, Machine Learning, *Arabidopsis thaliana*.
